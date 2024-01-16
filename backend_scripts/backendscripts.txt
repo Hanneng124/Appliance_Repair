@@ -1,0 +1,36 @@
+User Instructions for Appliance Repair Appointment Scheduler
+Introduction
+Welcome to the Appliance Repair Appointment Scheduler! This tool is designed to make scheduling and managing your appliance repair needs easy and efficient. Follow these instructions to get started.
+
+Creating an Account
+Visit the Website/App: Open the application on your preferred platform (web or mobile).
+Sign Up: Click on the 'Sign Up' button and enter your personal details including name, email, and contact number.
+Verify Account: Check your email for a verification link and click on it to activate your account.
+Booking an Appointment
+Log In: Enter your credentials to access your account.
+Select Service: Choose the appliance repair service you need from the list of services offered.
+Choose a Technician (optional): If you have a preference, select a technician, or let the system assign one based on availability and expertise.
+Pick a Date and Time: Use the calendar to select a convenient date and time for your appointment.
+Provide Details: Fill in any specific details or issues regarding the appliance in the provided text box.
+Confirm Booking: Review your appointment details and click 'Confirm' to book your appointment.
+Managing Appointments
+View Upcoming Appointments: Access your dashboard to see all your scheduled and past appointments.
+Reschedule/Cancel: Click on an upcoming appointment to reschedule or cancel it. Note: Cancellation policies may apply.
+Updating Profile Information
+Access Profile: Click on your profile icon.
+Edit Details: Update your personal details, address, and contact information as needed.
+Save Changes: Don’t forget to save any changes you make.
+Contacting Support
+If you encounter any issues or have questions, use the 'Contact Support' option available in the app or website.
+Logging Out
+Ensure to log out of your account after each session for security purposes.
+Tips for a Better Experience
+Notifications: Enable notifications to receive reminders and updates about your appointments.
+Feedback: After your appointment, provide feedback on the service to help us improve.
+Conclusion
+Thank you for choosing our Appliance Repair Appointment Scheduler. We are committed to providing you with a seamless and efficient service experience. For any further assistance, please don’t hesitate to contact our support team.
+
+
+
+
+
